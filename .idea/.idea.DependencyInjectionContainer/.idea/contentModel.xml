@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\Ksusha\AppData\Local\JetBrains\Rider2020.2\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\Ksusha\AppData\Local\JetBrains\Rider2020.2\resharper-host\Local\Transient\Rider\v202\SolutionCaches\_DependencyInjectionContainer.1947678033.00" t="ExcludeRecursive" />
+    <e p="C:\Users\Ksusha\Downloads\mpp-dotnet-di-container\DependencyInjectionContainer" t="IncludeFlat">
+      <e p="DependencyInjectionContainer" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DependenciesConfiguration.cs" t="Include" />
+        <e p="DependencyInjectionContainer.csproj" t="IncludeRecursive" />
+        <e p="DependencyKeyAttribute.cs" t="Include" />
+        <e p="DependencyProvider.cs" t="Include" />
+        <e p="Extensions" t="Include">
+          <e p="TypeExtensions.cs" t="Include" />
+        </e>
+        <e p="IDependenciesConfiguration.cs" t="Include" />
+        <e p="IDependencyProvider.cs" t="Include" />
+        <e p="ImplementationContainer.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="DependencyInjectionContainer.sln" t="IncludeFlat" />
+      <e p="DependencyInjectionContainer.UnitTests" t="IncludeRecursive">
+        <e p="AccessoryClasses" t="Include">
+          <e p="IMyGenericInterface.cs" t="Include" />
+          <e p="IMyInterface.cs" t="Include" />
+          <e p="MyGenericImplementation1.cs" t="Include" />
+          <e p="MyGenericImplementation2.cs" t="Include" />
+          <e p="MyImplementation1.cs" t="Include" />
+          <e p="MyImplementation2.cs" t="Include" />
+          <e p="MyNamedConstructorParameterImplementation.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="DependencyInjectionContainer.UnitTests.csproj" t="IncludeRecursive" />
+        <e p="DependencyInjectionContainerTests.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive" />
+        <e p="packages.config" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="AssemblyInfo.cs" t="Include" />
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive">
+        <e p="MSTest.TestAdapter.1.3.2\build\_common\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll" t="Include" />
+        <e p="MSTest.TestAdapter.1.3.2\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll" t="Include" />
+        <e p="MSTest.TestAdapter.1.3.2\build\_common\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll" t="Include" />
+      </e>
+    </e>
+  </component>
+</project>

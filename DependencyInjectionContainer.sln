@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.136
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionContainer", "DependencyInjectionContainer\DependencyInjectionContainer.csproj", "{6F6A8F30-E81D-4896-83D4-56A0E3EE3F91}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DependencyInjectionContainer.UnitTests", "DependencyInjectionContainer.UnitTests\DependencyInjectionContainer.UnitTests.csproj", "{3E3AABBF-3E2D-4868-8485-D0066C7A8A59}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6F6A8F30-E81D-4896-83D4-56A0E3EE3F91}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F6A8F30-E81D-4896-83D4-56A0E3EE3F91}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F6A8F30-E81D-4896-83D4-56A0E3EE3F91}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F6A8F30-E81D-4896-83D4-56A0E3EE3F91}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3E3AABBF-3E2D-4868-8485-D0066C7A8A59}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3E3AABBF-3E2D-4868-8485-D0066C7A8A59}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3E3AABBF-3E2D-4868-8485-D0066C7A8A59}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3E3AABBF-3E2D-4868-8485-D0066C7A8A59}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8618B843-6D7C-4D71-BA1A-4EA2741A489E}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,6 @@
+C:\Users\Ksusha\Downloads\mpp-dotnet-di-container\DependencyInjectionContainer\DependencyInjectionContainer\bin\Debug\DependencyInjectionContainer.dll
+C:\Users\Ksusha\Downloads\mpp-dotnet-di-container\DependencyInjectionContainer\DependencyInjectionContainer\bin\Debug\DependencyInjectionContainer.pdb
+C:\Users\Ksusha\Downloads\mpp-dotnet-di-container\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\DependencyInjectionContainer.csprojAssemblyReference.cache
+C:\Users\Ksusha\Downloads\mpp-dotnet-di-container\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\DependencyInjectionContainer.csproj.CoreCompileInputs.cache
+C:\Users\Ksusha\Downloads\mpp-dotnet-di-container\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\DependencyInjectionContainer.dll
+C:\Users\Ksusha\Downloads\mpp-dotnet-di-container\DependencyInjectionContainer\DependencyInjectionContainer\obj\Debug\DependencyInjectionContainer.pdb
